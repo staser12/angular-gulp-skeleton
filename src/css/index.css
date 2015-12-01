@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div.fullScreen {
+  height: 100%;
+  width: 100%;
+}
+
+div.blueDiv {
+  background-color: blue;
+  color: #FFFFFF;
+}
+
+div.greenDiv {
+  background-color: green;
+}
+
+div.yellowDiv {
+  background-color: yellow;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "angular-gulp-skeleton",
+  "description": "",
+  "main": "src/index.js",
+  "authors": [
+    "Stanislav Radomskiy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/staser12/angular-gulp-skeleton",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8",
+    "async": "~1.5.0"
+  }
+}
